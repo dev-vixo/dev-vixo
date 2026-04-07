@@ -10,13 +10,5 @@
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=dev-vixo&show_icons=true&theme=radical" alt="Vixo Dev GitHub Stats" />
-</div>
-
-<div align="center">
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/dev-vixo?cardType=level&theme=radical&preferLogin=false" alt="My Awesome Stats" />
-</div>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-vixo&layout=compact&theme=radical&langs_count=20" alt="Top Langs" />
 </div>
